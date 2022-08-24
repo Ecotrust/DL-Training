@@ -1,0 +1,12 @@
+name: dl-env
+
+channels: 
+  - pytorch
+  - conda-forge
+  - default
+
+dependencies:
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.6
