@@ -10,3 +10,5 @@ dependencies:
   - torchvision
   - torchaudio
   - cudatoolkit=11.6
+  - opencv
+  - libgcc
