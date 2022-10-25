@@ -9,6 +9,17 @@ dependencies:
   - pytorch
   - torchvision
   - torchaudio
+  - torchsummary
   - cudatoolkit=11.6
   - opencv
   - libgcc
+  - matplotlib
+  - ipykernel
+  - seaborn
+  - imgaug
+  - albumentations
+  - rasterio
+  - ipywidgetsy
+  pip:
+    - kaggle
+    - radiant_mlhub 
